@@ -13,7 +13,7 @@ Here you will find a simple (like always minimal :)) text data augmentation fram
 I created this framework over the night in summer of 2024 as part of the
 course "Computer Science Seminar".
 It uses the sprintf and a two dimensional array as a buffer to display the test results.
-I called it **cobit**. **cobit** is a partial blend (**Coburg** \[name of a small city located in Bavaria in Southern Germany\] + **Unit** \[for unit tests\])
+I called it **synthetixt**. **synthetixt** is a partial blend (**Synthetic** + **Text**)
 Feel free to extend/adjust this project so that it meets your goals.
 
 ## Usage/Example
